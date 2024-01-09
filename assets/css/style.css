@@ -78,11 +78,9 @@ main {
 section {
   display: grid;
   grid-template-columns: repeat(4, 1fr);
+  gap: 1rem;
 }
 
-section div {
-  margin: 0 1rem;
-}
 section h2 {
   grid-column: 1 / 5;
 }
