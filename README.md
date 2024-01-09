@@ -1,6 +1,10 @@
 # supercode-project-newspaper
 
-## Projekt as part of SuperCode-Bootcamp
+## Project as part of the SuperCode-Bootcamp
+
+### Screenshot
+
+![alt text](./assets/img/Bildschirmfoto%202024-01-09%20um%2014.51.51.png)
 
 ### Built with
 
@@ -8,10 +12,6 @@
 - CSS custom properties
 - Flexbox
 - CSS Grid
-
-### Screenshot
-
-![alt text](./assets/img/Bildschirmfoto%202024-01-09%20um%2014.51.51.png)
 
 ## Author
 
